@@ -1,0 +1,12 @@
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\bin\Debug\EpsonHack.exe.config
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\bin\Debug\EpsonHack.exe
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\bin\Debug\EpsonHack.pdb
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.csprojResolveAssemblyReference.cache
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.csproj.ResolveComReference.cache
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.Form1.resources
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.Properties.Resources.resources
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.csproj.GenerateResource.Cache
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.csproj.CoreCompileInputs.cache
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.exe
+C:\Users\Deivit\source\repos\EpsonHack\EpsonHack\obj\Debug\EpsonHack.pdb

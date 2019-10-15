@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.InstallLog
+   assemblypath = C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe
+Installing service Avast_Service_Com...
+Service Avast_Service_Com has been successfully installed.
+Creating EventLog source Avast_Service_Com in log Application...
+Committing assembly 'C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.InstallLog
+   assemblypath = C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe
+Uninstalling assembly 'C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.InstallLog
+   assemblypath = C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe
+Removing EventLog source Avast_Service_Com.
+Service Avast_Service_Com is being removed from the system...
+Service Avast_Service_Com was successfully removed from the system.

@@ -1,0 +1,16 @@
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\bin\Debug\Hackepson2.exe
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\bin\Debug\Hackepson2.pdb
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\bin\Debug\Hackepson2.xml
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.vbprojResolveAssemblyReference.cache
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.vbproj.ResolveComReference.cache
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.Form1.resources
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.Resources.resources
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.vbproj.GenerateResource.Cache
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.vbproj.CoreCompileInputs.cache
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.exe
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.xml
+C:\Users\Deivit\source\repos\Hackepson2\Hackepson2\obj\Debug\Hackepson2.pdb

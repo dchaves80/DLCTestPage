@@ -1,0 +1,9 @@
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.exe
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\bin\Debug\Avast Service.pdb
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast_Service.ProjectInstaller.resources
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast Service.csproj.GenerateResource.cache
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast Service.csproj.CoreCompileInputs.cache
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast Service.exe
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast Service.pdb
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast_Service.AvastService.resources
+C:\Users\Deivit\source\repos\Asterisco\Avast Service\obj\Debug\Avast Service.csprojAssemblyReference.cache

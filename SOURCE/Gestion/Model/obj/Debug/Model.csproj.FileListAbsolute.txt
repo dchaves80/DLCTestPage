@@ -1,0 +1,9 @@
+c:\Users\Deivit\source\repos\Gestion\Model\bin\Debug\Model.dll
+c:\Users\Deivit\source\repos\Gestion\Model\bin\Debug\Model.pdb
+c:\Users\Deivit\source\repos\Gestion\Model\bin\Debug\Connection.dll
+c:\Users\Deivit\source\repos\Gestion\Model\bin\Debug\Connection.pdb
+c:\Users\Deivit\source\repos\Gestion\Model\obj\Debug\Model.csprojAssemblyReference.cache
+c:\Users\Deivit\source\repos\Gestion\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+c:\Users\Deivit\source\repos\Gestion\Model\obj\Debug\Model.csproj.CopyComplete
+c:\Users\Deivit\source\repos\Gestion\Model\obj\Debug\Model.dll
+c:\Users\Deivit\source\repos\Gestion\Model\obj\Debug\Model.pdb

@@ -1,0 +1,6 @@
+c:\Users\Deivit\source\repos\Comercio\Connection\bin\Debug\Connection.dll.config
+c:\Users\Deivit\source\repos\Comercio\Connection\bin\Debug\Connection.dll
+c:\Users\Deivit\source\repos\Comercio\Connection\bin\Debug\Connection.pdb
+c:\Users\Deivit\source\repos\Comercio\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+c:\Users\Deivit\source\repos\Comercio\Connection\obj\Debug\Connection.dll
+c:\Users\Deivit\source\repos\Comercio\Connection\obj\Debug\Connection.pdb

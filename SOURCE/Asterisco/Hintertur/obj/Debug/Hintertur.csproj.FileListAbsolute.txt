@@ -1,0 +1,6 @@
+C:\Users\Deivit\source\repos\Asterisco\Hintertur\bin\Debug\Hintertur.exe
+C:\Users\Deivit\source\repos\Asterisco\Hintertur\bin\Debug\Hintertur.pdb
+C:\Users\Deivit\source\repos\Asterisco\Hintertur\obj\Debug\Hintertur.csprojAssemblyReference.cache
+C:\Users\Deivit\source\repos\Asterisco\Hintertur\obj\Debug\Hintertur.csproj.CoreCompileInputs.cache
+C:\Users\Deivit\source\repos\Asterisco\Hintertur\obj\Debug\Hintertur.exe
+C:\Users\Deivit\source\repos\Asterisco\Hintertur\obj\Debug\Hintertur.pdb
